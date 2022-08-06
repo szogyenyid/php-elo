@@ -1,0 +1,16 @@
+{
+    "name": "szogyenyid/php-elo",
+    "description": "Elo ranking system",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "szogyenyid\\PhpElo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "szogyenyid"
+        }
+    ],
+    "require": {}
+}
